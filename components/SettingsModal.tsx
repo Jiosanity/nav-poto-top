@@ -141,7 +141,7 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({
                 value={settings.greetingName || ''}
                 onChange={(e) => updateSettings('greetingName', e.target.value)}
                 className="w-full px-3 py-2 text-sm border border-gray-200 dark:border-zinc-800 rounded-lg focus:outline-none focus:border-blue-500 bg-gray-50 dark:bg-zinc-900 text-gray-900 dark:text-white"
-                placeholder="e.g. Alex"
+                placeholder="e.g. XiaoTen"
               />
             </div>
           </div>

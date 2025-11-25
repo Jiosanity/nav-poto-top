@@ -20,8 +20,8 @@ const STORAGE_KEY_SETTINGS = 'astralis_settings';
 const DEFAULT_SETTINGS: AppSettings = {
   language: 'zh',
   theme: 'system',
-  openSearchInNewTab: false,
-  openLinksInNewTab: false,
+  openSearchInNewTab: true,
+  openLinksInNewTab: true,
   showFavicons: true,
   layoutMode: 'list',
   showShortcuts: true,
