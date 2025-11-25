@@ -88,4 +88,4 @@ export const getDefaultCategories = (language: Language = 'en'): Category[] => {
 };
 
 // For backward compatibility
-export const DEFAULT_CATEGORIES = getDefaultCategories('en');
+export const DEFAULT_CATEGORIES = getDefaultCategories('zh');

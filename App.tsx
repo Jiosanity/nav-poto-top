@@ -18,7 +18,7 @@ const STORAGE_KEY_ENGINES = 'astralis_engines';
 const STORAGE_KEY_SETTINGS = 'astralis_settings';
 
 const DEFAULT_SETTINGS: AppSettings = {
-  language: 'en',
+  language: 'zh',
   theme: 'system',
   openSearchInNewTab: false,
   openLinksInNewTab: false,
